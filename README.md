@@ -1,2 +1,2 @@
-# Gradient-Generator
-Gradient Generator is designed and developed in html css and vanilla js. You can use random gradient designs code
+# gradient-generator
+Gradient generator made with HTML inputs and vanilla JS 
